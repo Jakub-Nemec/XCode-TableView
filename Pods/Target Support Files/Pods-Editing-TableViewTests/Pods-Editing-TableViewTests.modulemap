@@ -1,0 +1,6 @@
+framework module Pods_Editing_TableViewTests {
+  umbrella header "Pods-Editing-TableViewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
